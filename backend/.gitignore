@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/.vscode
+/uploads
+/node_modules
+/New_folder
+src.zip
+
+yarn.lock
